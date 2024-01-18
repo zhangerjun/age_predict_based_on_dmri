@@ -1,1 +1,1 @@
-# age_predict_based_on_dmri
+# Mini-Project 3: Age Prediction Based On dMRI Data
